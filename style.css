@@ -2,6 +2,7 @@ html, body {
   width: 100vw;
   height: 100vh;
   display: grid;
+  color: #fff;
   place-items: center;
   background-color: #0A0A0A;
   margin: 0;
