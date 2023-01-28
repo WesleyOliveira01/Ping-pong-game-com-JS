@@ -104,17 +104,18 @@ function colisaoRaqueteBiblioteca(x,y){
 }
 
 function movimentaRaqueteOponente(){
-  /*velocidadeYoponente = positionY - positionYraqueteOponente - heightRaquete / 2 - 47
+  velocidadeYoponente = positionY - positionYraqueteOponente - heightRaquete / 2 - 47
   
-  positionYraqueteOponente += velocidadeYoponente*/
+  positionYraqueteOponente += velocidadeYoponente
   
+  /*
   if(keyIsDown(87)){
    positionYraqueteOponente -= 10;
   }
   if(keyIsDown(83)){
    positionYraqueteOponente += 10; 
   }
-  
+  */
   
 }
 
